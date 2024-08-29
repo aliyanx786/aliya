@@ -51,7 +51,7 @@ def notice():
 
 	runtxt("\n\033[0;91mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m  SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN MESSENGER🔰R140N")
+	runtxt("\033[0;92m ADMIN MESSENGER🔰pp")
 	subprocess.check_output(["am", "start", "https://wa.me/923404664698x"])
 
 def irfan():
@@ -78,7 +78,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/ariyankhan5630/Naim.txt/blob/main/Lover.txt').text
+			plr = requests.get('https://github.com/aliyanx786/old./blob/main/old.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mPREMIUM")
@@ -94,7 +94,7 @@ class Main:
 		except requests.exceptions.ConnectionError:
 			print("\n%s [!] NO INTERNET CONNECTION..\n"%(G))
 			exit()
-			os.system('xdg-open https://github.com/naim404cyber')
+			os.system('xdg-open https://github.com/aliyanx786')
 		os.system("clear")
 		
 		print ("""\033[1;92m   
